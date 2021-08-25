@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ha234092\\Downloads\\Zork-20210825T174033Z-001\\Zork\\Zork\\Zork.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ha234092\\Downloads\\Zork-20210825T174033Z-001\\Zork\\Zork\\Zork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ha234092\\Downloads\\Zork-20210825T174033Z-001\\Zork\\Zork\\Zork.csproj",
+        "projectName": "Zork",
+        "projectPath": "C:\\Users\\ha234092\\Downloads\\Zork-20210825T174033Z-001\\Zork\\Zork\\Zork.csproj",
+        "packagesPath": "C:\\Users\\ha234092\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ha234092\\Downloads\\Zork-20210825T174033Z-001\\Zork\\Zork\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ha234092\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
